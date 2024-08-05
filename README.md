@@ -15,8 +15,8 @@ This is an analysis and visualization of a supermarket sales data, to demonstrat
 - I removed double spaces within text fields, which improved data uniformity.
 - I also formatted the date and currency, thus standardizing the appearance of the date data which enhanced the readability and prevented misinterpretation of the dates in the analysis stage.
 
-3. Analysis
-Calculating Key Metrics:
+3. Analysis.
+- Calculating Key Metrics:
 I calculated total cost of goods sold (COGS), sum of total revenue, and sum of gross income.
 These provided a foundational understanding of the dataset's financial aspects, essential for subsequent analysis.
 
