@@ -11,10 +11,10 @@ By analysing various aspects of the sales data, I sought to identify trends, gai
 **Tool Used: Microsoft Excel.**
 
 ## Table of Contents.
-1. [Data Loading and Initial Preparation](data-loading-and-initial-preparation)
-2. [Data Cleaning](data-cleaning-and-formatting)
-3. [Data Analysis](analysis)
-4. [Data Visualizations](visualizations-&-dashboard-creation)
+1. [Data Loading and Initial Preparation](#data-loading-and-initial-preparation)
+2. [Data Cleaning](#data-cleaning-and-formatting)
+3. [Data Analysis](#analysis)
+4. [Data Visualizations](#visualizations-&-dashboard-creation)
 
 ## THE PROCESS:
 
