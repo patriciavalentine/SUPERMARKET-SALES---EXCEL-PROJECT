@@ -1,30 +1,29 @@
 # SUPERMARKET SALES ANALYSIS
 ## Project Overview
 
-**This is a personal data analysis and visualization project, of a random supermarket sales dataset from Kaggle.**
+*This is a personal data analysis and visualization project, of a random supermarket sales dataset from Kaggle.*
 
 ![Supermarket sales Capture](https://github.com/user-attachments/assets/23b6c855-eb31-4aa2-b982-55c70300caec)
 
-It aims to provide insights into the sales performance of the supermarket's major three branches, over three months.
+It aims to provide insights into the sales performance of the supermarket's major three branches, over a period of three months.
+
 By analysing various aspects of the sales data, I sought to identify trends, gain a deeper understanding of the supermarket's performance, provide actionable insights for decision-making, and of course to also demonstrate my proficiency in the use of Excel spreadsheets for data analytics, from data cleaning to advanced analysis and visualization.
 
-**Tool Used: Microsoft Excel.**
+## Tool Used:
+- Microsoft Excel.
 
 ## Table of Contents.
 1. [Data Loading and Initial Preparation](#data-loading-and-initial-preparation)
 2. [Data Cleaning](#data-cleaning-and-formatting)
-3. [Data Analysis](#analysis)
+3. [Analysis](#analysis)
 4. [Data Visualizations](#visualizations-&-dashboard-creation)
 
-## THE PROCESS:
-
-### 1. Data Loading and Initial Preparation
+### Data Loading and Initial Preparation
 I first **loaded the dataset into Excel**, to enable data access for subsequent analysis.
 
 I then applied freeze panes to the top row to ensure that column headers remained visible during scrolling, enhancing data readability and navigation.
 
-
-### 2. Data Cleaning and Formatting
+### Data Cleaning and Formatting
 I **checked for spelling errors**, to ensure data consistency and accuracy, particularly in the categorical data like the product line names, payment methods and city names.
 
 I identified and **removed empty rows and extra spaces**, ensuring clean and reliable data.
@@ -38,7 +37,7 @@ I also **formatted the date and currency**, thus standardizing the appearance of
 ![Data Capture](https://github.com/user-attachments/assets/62a0c348-f3ff-45a1-ae1b-fcf641dfc8da)
 
 
-### 3. Analysis.
+### Analysis.
 **Calculating Key Metrics:**
 I calculated total cost of goods sold (COGS), sum of total revenue, and sum of gross income.
 
@@ -70,7 +69,7 @@ The **cost analysis by product line** table assessed profitability and cost effi
 
 The **customer demographics** table helped me understand customer segmentation, aiding in personalized marketing strategies.
 
-### 4. Visualizations & Dashboard Creation
+### Visualizations & Dashboard Creation
 
 ![Dashboard Capture](https://github.com/user-attachments/assets/4a35f9a5-0cee-429b-acff-1d271c6cf7fc)
 
@@ -83,4 +82,4 @@ The **customer demographics** table helped me understand customer segmentation, 
 - Added two slicers for the three different Branch cities, and gender to help analyze the data further. 
 
 
-#### This end-to-end process showcases my ability to handle real-world data analytics projects effectively. It provided a clear understanding of sales performance across various dimensions, identified key revenue drivers, highlighted customer preferences, and supported data-driven decision-making processes.
+**This end-to-end process showcases my ability to handle real-world data analytics projects effectively. It provided a clear understanding of sales performance across various dimensions, identified key revenue drivers, highlighted customer preferences, and supported data-driven decision-making processes.**
