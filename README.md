@@ -5,7 +5,7 @@
 
 ![Supermarket sales Capture](https://github.com/user-attachments/assets/23b6c855-eb31-4aa2-b982-55c70300caec)
 
-It aims to provide insights into the sales performance of the supermarket's major three branches, over a period of three months.
+*It aims to provide insights into the sales performance of the supermarket's major three branches, over a period of three months.*
 
 By analysing various aspects of the sales data, I sought to identify trends, gain a deeper understanding of the supermarket's performance, provide actionable insights for decision-making, and of course to also demonstrate my proficiency in the use of Excel spreadsheets for data analytics, from data cleaning to advanced analysis and visualization.
 
