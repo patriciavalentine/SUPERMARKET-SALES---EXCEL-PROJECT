@@ -1,4 +1,4 @@
-# SUPERMARKET SALES ANALYSIS
+# 📊 SUPERMARKET SALES ANALYSIS
 ## Project Overview
 This is a project on the analysis and visualization of a supermarket sales dataset.
 It aimed to provide insights into the sales performance of the supermarket's major three branches, over three months.
@@ -12,7 +12,7 @@ EDA involved exploring the sales data to answer these key questions:
 - *Which products are top-sellers?*
 - *What is the overall sales trend?*
 
-## Insights
+## 📑 Insights
 - *Branch C in Naypyitaw is the top-performing branch.*
 - *E-wallets are the most preferred payment method.*
 - *Electronic accessories and food & beverages are the top-selling products, with food & beverages receiving the highest ratings.*
