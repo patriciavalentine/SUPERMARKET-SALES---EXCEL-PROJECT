@@ -26,6 +26,9 @@ EDA involved exploring the sales data to answer these key questions:
 
 ...and others - as shown in the [dashboard](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Dashboard%20Capture.PNG)!
 
+## Recommendations
+1. With electronic accessories and food & beverages being the top-selling products, the supermarket should consider expanding its inventory in these categories. Additionally, maintaining high standards of quality in food & beverages will help sustain customer satisfaction and loyalty.
+2. To mitigate the low sales revenue observed in February, the supermarket could implement targeted marketing strategies during this period to boost sales. This may include seasonal promotions, limited-time offers, or events that encourage customers to shop during slower months.
 
 ### Source of Data:
 - Kaggle
