@@ -5,6 +5,9 @@ It aimed to provide insights into the sales performance of the supermarket's maj
 
 By analysing various aspects of the sales data, I sought to identify trends, gain a deeper understanding of the supermarket's performance, and provide actionable insights for decision-making.
 
+### Source of Data:
+- Kaggle
+
 ## 📂 Files
 1. [Raw Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset.xlsx)
 2. [Cleaned Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset%20-%20Cleaned.xlsx)
@@ -29,9 +32,6 @@ EDA involved exploring the sales data to answer these key questions:
 ## Recommendations
 1. With electronic accessories and food & beverages being the top-selling products, the supermarket should consider expanding its inventory in these categories. Additionally, maintaining high standards of quality in food & beverages will help sustain customer satisfaction and loyalty.
 2. To mitigate the low sales revenue observed in February, the supermarket could implement targeted marketing strategies during this period to boost sales. This may include seasonal promotions, limited-time offers, or events that encourage customers to shop during slower months.
-
-### Source of Data:
-- Kaggle
 
 ### Tool Used:
 - Microsoft Excel.
