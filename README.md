@@ -5,6 +5,12 @@ It aimed to provide insights into the sales performance of the supermarket's maj
 
 By analysing various aspects of the sales data, I sought to identify trends, gain a deeper understanding of the supermarket's performance, and provide actionable insights for decision-making.
 
+## 📂 Files
+1. [Raw Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset.xlsx)
+2. [Cleaned Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset%20-%20Cleaned.xlsx)
+3. [Analysis & Visualization](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20-%20EXCEL%20PROJECT.xlsx)
+4. [Dashboard](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Dashboard%20Capture.PNG)
+
 ## Exploratory Data Analysis
 EDA involved exploring the sales data to answer these key questions:
 - *What is the highest performing branch?*
@@ -20,11 +26,6 @@ EDA involved exploring the sales data to answer these key questions:
 
 ...and others - as shown in the [dashboard](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Dashboard%20Capture.PNG)!
 
-## 📂 Files
-1. [Raw Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset.xlsx)
-2. [Cleaned Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset%20-%20Cleaned.xlsx)
-3. [Analysis & Visualization](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20-%20EXCEL%20PROJECT.xlsx)
-4. [Dashboard](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Dashboard%20Capture.PNG)
 
 ### Source of Data:
 - Kaggle
