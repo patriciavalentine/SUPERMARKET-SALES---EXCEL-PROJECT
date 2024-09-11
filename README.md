@@ -39,7 +39,7 @@ EDA involved exploring the sales data to answer these key questions:
 - Microsoft Excel.
 *(Import Data, Freeze Panes, Spell Check, Remove Empty Rows, TRIM Function, Find & Replace, Remove Duplicates, Date and Currency Formatting, Formulas, Pivot Tables, Charts, Slicers, Dashboard Creation, etc)*
 - Microsoft Word.
-- Microsoft Powerpoint.
+- Microsoft PowerPoint.
 
 # THE 📈 PROCESS
 
