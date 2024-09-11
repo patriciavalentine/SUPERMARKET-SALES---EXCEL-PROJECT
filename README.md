@@ -41,7 +41,7 @@ EDA involved exploring the sales data to answer these key questions:
 - Microsoft Word.
 - Microsoft Powerpoint.
 
-# THE PROCESS
+# THE 📈 PROCESS
 
 ![Supermarket sales Capture](https://github.com/user-attachments/assets/23b6c855-eb31-4aa2-b982-55c70300caec)
 
