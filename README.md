@@ -13,7 +13,7 @@ By analysing various aspects of the sales data, I sought to identify trends, gai
 2. [Cleaned Data](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Dataset%20-%20Cleaned.xlsx)
 3. [Analysis & Visualization](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20-%20EXCEL%20PROJECT.xlsx)
 4. [Dashboard](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Dashboard%20Capture.PNG)
-5. [The Report]
+5. [The Report](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/SUPERMARKET%20SALES%20ANALYSIS%20REPORT.pdf)
 6. [The Presentation](https://github.com/patriciavalentine/SUPERMARKET-SALES-ANALYSIS/blob/main/Supermarket%20Sales%20Analysis%20Report%20Presentation.pdf)
 
 ## Exploratory Data Analysis
